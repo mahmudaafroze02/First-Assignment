@@ -70,4 +70,81 @@ color: white;}
     font-weight: 100px;
 
    }
+   .icons{
+      display: flex;
+      justify-content: space-around;
+      margin:20px 200px;
+      padding-bottom: 60px;
+   }
+   .plan{
+     color: black;
+     text-align: center;
+     margin-bottom: 50px;
+    
+   }
+   .image2{
+     background-image: url("images/gradient3.png");
+     background-repeat: no-repeat;
+     height: 180px;
+     width: 800px;
+     margin: 20px 200px;
+   }
+   .always{
+      font-family: sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      color: white;
+      padding-top: 50px;
+      padding-left: 50px;
+   }
+   .callnow{
+      position: absolute;
+      background-color: white;
+      color: #f15b22;
+      padding: 7px 20px;
+      border: none;
+      margin-left: 50px;
+      margin-top: 20px;
+    
+   }
    
+
+  
+ .footer2 {
+   background-color: black; 
+   height: 400px;
+   display: flex;
+ }
+.future1{
+   color: white;
+   padding-top: 50px;
+   padding-left: 200px;
+   font-size: 50px;
+}
+.variation{
+   color: white;
+   padding-top: 18px;
+   padding-left: 200px;
+   font-size: 18px;
+
+}
+.parae
+{
+   color: white;
+   padding-left:200px ;
+   padding-top: 20px;
+}
+.parap{
+   color: white;
+   padding-left:200px ;
+   padding-top: 20px;
+
+}
+.icon{
+   height: 20px;
+   width: 10px;
+   display: flex;
+   padding-left: 200px;
+   padding-top: 20px;
+}
+
